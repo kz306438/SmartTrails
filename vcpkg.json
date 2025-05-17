@@ -1,0 +1,11 @@
+{
+  "name": "smarttrails",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "poco",
+      "features": [ "crypto", "netssl", "postgresql" ]
+    },
+    "libpq"
+  ]
+}
